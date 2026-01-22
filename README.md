@@ -9,3 +9,5 @@ Blockchain Practical Exercises
 [通过编写 BigBank 实践 Solidity 继承及接口合约交互](https://decert.me/quests/063c14be-d3e6-41e0-a243-54e35b1dde58)：BigBankSmartContract
 
 [Solidity 编写 TokenBank](https://decert.me/quests/eeb9f7d8-6fd0-4c38-b09c-75a29bd53af3)：TokenBank_V1
+
+[扩展 ERC20 加入Hook，并使用 Hook](https://decert.me/quests/4df553df-fbab-49c8-a05f-83256432c6af)：TokenBank_V2
