@@ -11,3 +11,6 @@ Blockchain Practical Exercises
 [Solidity 编写 TokenBank](https://decert.me/quests/eeb9f7d8-6fd0-4c38-b09c-75a29bd53af3)：TokenBank_V1
 
 [扩展 ERC20 加入Hook，并使用 Hook](https://decert.me/quests/4df553df-fbab-49c8-a05f-83256432c6af)：TokenBank_V2
+
+[使用 Foundry 测试 Bank 合约](https://decert.me/quests/b8cde6b2-bad4-4629-b73a-2d0dede4f347)：Foundry/src/Bank_Contract.sol、Foundry/test/Bank.t.sol
+
